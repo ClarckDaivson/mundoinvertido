@@ -11,11 +11,6 @@
 ![Uso Educacional](https://img.shields.io/badge/📚-Uso%20Educacional-blue)
 ![Proibido Comércio](https://img.shields.io/badge/🚫-Proibido%20Uso%20Comercial-red)
 
-## 🚦 Status do Projeto
-
-🚧 **Em desenvolvimento ativo**  
-🔨 Algumas seções estão incompletas  
-📅 Sem prazo definido para conclusão
 
 ## 🎨 Preview
 
